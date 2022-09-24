@@ -1,0 +1,15 @@
+C:\code\net\FontExtractor\bin\Debug\net6.0\fonts.exe
+C:\code\net\FontExtractor\bin\Debug\net6.0\fonts.deps.json
+C:\code\net\FontExtractor\bin\Debug\net6.0\fonts.runtimeconfig.json
+C:\code\net\FontExtractor\bin\Debug\net6.0\fonts.dll
+C:\code\net\FontExtractor\bin\Debug\net6.0\fonts.pdb
+C:\code\net\FontExtractor\obj\Debug\net6.0\fonts.csproj.AssemblyReference.cache
+C:\code\net\FontExtractor\obj\Debug\net6.0\fonts.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\net\FontExtractor\obj\Debug\net6.0\fonts.AssemblyInfoInputs.cache
+C:\code\net\FontExtractor\obj\Debug\net6.0\fonts.AssemblyInfo.cs
+C:\code\net\FontExtractor\obj\Debug\net6.0\fonts.csproj.CoreCompileInputs.cache
+C:\code\net\FontExtractor\obj\Debug\net6.0\fonts.dll
+C:\code\net\FontExtractor\obj\Debug\net6.0\refint\fonts.dll
+C:\code\net\FontExtractor\obj\Debug\net6.0\fonts.pdb
+C:\code\net\FontExtractor\obj\Debug\net6.0\fonts.genruntimeconfig.cache
+C:\code\net\FontExtractor\obj\Debug\net6.0\ref\fonts.dll
