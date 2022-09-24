@@ -2,7 +2,7 @@ using System.Buffers.Binary;
 
 namespace Main
 {
-    struct NameRecord
+    class NameRecord
     {
         public UInt16 PlatformID;
         public UInt16 EncodingID;

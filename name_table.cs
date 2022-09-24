@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Main
 {
-    struct NameTable
+    class NameTable
     {
         public UInt16 Version;
         public UInt16 Count;

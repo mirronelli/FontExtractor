@@ -2,7 +2,7 @@ using System.Buffers.Binary;
 
 namespace Main
 {
-    struct Os2Table
+    class Os2Table
     {
         public UInt16 Version;
         public UInt16 AvgCharWidth;

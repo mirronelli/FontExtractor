@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Main
 {
-    struct Table
+    class Table
     {
         public System.String Tag;
         public System.UInt32 Checksum;
